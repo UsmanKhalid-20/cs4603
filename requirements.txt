@@ -4,3 +4,5 @@ langchain
 langgraph
 ipykernel
 tiktoken
+mlflow
+iprogress
